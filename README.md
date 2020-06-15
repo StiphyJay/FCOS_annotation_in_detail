@@ -1,3 +1,6 @@
+改代码与FCOS原代码几乎一样，我为了方便自己理解，给整个训练过程和测试过程添加了注释．已经包括数据集的读取和真值读取部分．
+希望可以帮到大家．
+
 # FCOS: Fully Convolutional One-Stage Object Detection
 
 This project hosts the code for implementing the FCOS algorithm for object detection, as presented in our paper:
